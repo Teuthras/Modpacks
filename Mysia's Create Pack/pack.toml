@@ -1,0 +1,13 @@
+name = "Mysia's Create Pack"
+author = "Mysia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "25c931bd2cc6c7871d752d32d75432b4d6673810205d5c00fee7e5c3cfa36447"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.19.2"
