@@ -1,0 +1,13 @@
+name = "Mysia's Create Pack 1.19.2 Forge"
+author = "Teuthras"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e0d011504b0715d5438999c03ac443f623ada0f67477737831d458027a7cfe31"
+
+[versions]
+forge = "47.2.1"
+minecraft = "1.20.1"
