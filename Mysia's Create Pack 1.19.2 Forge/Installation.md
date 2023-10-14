@@ -1,5 +1,5 @@
 # Installation
-- Download the [MultiMc Instance](https://github.com/Teuthras/Modpacks/blob/main/Mysia's%20Create%20Pack%201.19.2%20Forge/Mysia's%20Create%201.19.2.zip)
+- Download the [MultiMc Instance](https://github.com/Teuthras/Modpacks/raw/main/Mysia's%20Create%20Pack%201.19.2%20Forge/Mysia's%20Create%201.19.2.zip)
 - Open MultiMc and click "Add Instance"
 - Select "Import from Zip"
 - Select downloaded instance in file browser
