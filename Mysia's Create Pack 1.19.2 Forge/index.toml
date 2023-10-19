@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Installation.md"
-hash = "61f0ce5fab1fbcae99946c2bfe2ce062c02c686cb02fdd484055dbd466e548e5"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
