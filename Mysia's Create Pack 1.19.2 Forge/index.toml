@@ -11,6 +11,11 @@ hash = "9663ee96acafe87505ec857774af6a0c07dbc5a9d5aac90de2ef8bb2fa106aef"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
 metafile = true
@@ -51,8 +56,18 @@ hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
 
 [[files]]
