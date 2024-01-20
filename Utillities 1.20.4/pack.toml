@@ -1,0 +1,13 @@
+name = "Utillities"
+author = "Till"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "04b86813bfdf6f49ce2e6124f88bb6ba2ba2928269fdb620ab187ee652c41b29"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"

@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "e3def660ba63335178116e8bfbfe990d0716c9155671ce583496ca19eb5ea19e"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "f1483b219dd79b3b53bdf90ec2b43c61bac07ed6ce4841c97cdb4cbeb44ed734"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
+metafile = true
+
+[[files]]
+file = "mods/free-cam.pw.toml"
+hash = "9b9661ae29fb1db619c19eb87170310116f2352a268557f56a475aa736cde6d6"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "82823f8d324029f0893ab72639efb9fc7a43ca45653e8ea8f656692d0c7aab39"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "5db239b544cde5a3b02418c239b72e16be00b2522abe94c6caabc37864ebab9a"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "404aed5b1f0b409771dcd76f8f8f532ad5623d246c69c25e83c0148a79033e32"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "7bf6c2c9ab897cf5187e4431ee15f9a74e7267e4eba2d38f37ccc14830cc03ab"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "da27cd650e95b1a58eb5d55f6facf39295bb550b8c250ac6b4bf5048109fa552"
+metafile = true
