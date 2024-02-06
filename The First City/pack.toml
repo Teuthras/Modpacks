@@ -1,0 +1,13 @@
+name = "The First City"
+author = "R4T"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad68fd565f47a73ecca3b128cbc66232e924fb11b65ac75fe04468d2aa60ff67"
+
+[versions]
+fabric = "0.15.6"
+minecraft = "1.19.3"

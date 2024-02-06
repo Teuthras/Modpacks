@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "352f8e78011e79ffec7b6ee6191be165deab39ca040a9f3e7b8d166f67c29d85"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cdf6e87246a0519d7e6351c4bf2ba4fae17a058ab8470c8d7bcfa52ac3a07e2b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4778c11d298ea9cc6f8c9d40019164b74fda212731cbf5b2bff85c91ab7bd289"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/the-first-city.pw.toml"
+hash = "f677a02615d677d00a5f4b42a8f2d6ada4041c624537867f32e70be8ebbb3b59"
+metafile = true

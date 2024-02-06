@@ -1,0 +1,13 @@
+name = "The First City ($50,000 MrBeast Mod)"
+filename = "TheFirstCity-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/82nEyXEm/versions/rGEdx6pw/TheFirstCity-1.0.2.jar"
+hash-format = "sha1"
+hash = "8ebdb33f303b12507f8d71aa92494ea91a508fcd"
+
+[update]
+[update.modrinth]
+mod-id = "82nEyXEm"
+version = "rGEdx6pw"
