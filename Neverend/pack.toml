@@ -1,0 +1,13 @@
+name = "Neverend"
+author = "R4T"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e454fef2b74d47ec2b2ae817c8b83704f1d9b863570f19345f732e43a6ea7d73"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.23.1"
